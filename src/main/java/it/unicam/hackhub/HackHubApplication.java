@@ -10,4 +10,5 @@ public class HackHubApplication {
         SpringApplication.run(HackHubApplication.class, args);
         System.out.println("HackHub Spring Boot avviato con successo! 🚀");
     }
+
 }
